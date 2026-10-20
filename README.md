@@ -12,6 +12,14 @@ English is the default; the website supports Arabic and RTL. [ملخص بالع�
 - Read practical guides and documented experiments in the journal.
 - Follow development through verified changes and evidence; plans are not releases.
 
+## Published tool guides
+
+- [Format JSON without changing a large order ID](https://agmad.net/journal/format-json-without-changing-large-numbers/)
+- [Base64 with Arabic and emoji: encoding is not encryption](https://agmad.net/journal/base64-arabic-text-encoding-not-encryption/)
+- [Why Arabic text and emoji can have surprising character counts](https://agmad.net/journal/arabic-word-count-code-points-explained/)
+
+Each guide includes a real tool screenshot, a reproducible synthetic example and known limits. English and Arabic links, current tool versions and release boundaries are in the [tools catalog](docs/tools/CATALOG.md).
+
 ## Work and status
 
 | Workstream | Current boundary |
