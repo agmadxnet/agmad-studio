@@ -17,4 +17,4 @@ Plans are not release commitments. Product-specific milestones retain their own 
 
 ## Future exploration
 
-Subscriber-only benefits, safe advertising integration and easier tool installation/update distribution. No automatic release cadence, paid access, updater or completed subscriber tool is promised.
+Improvements to existing tools, accessibility and documentation. Exploration is not an availability claim or release commitment; commercial planning and unpublished editorial queues are maintained privately.
