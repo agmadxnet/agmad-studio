@@ -24,11 +24,9 @@ Each guide includes a real tool screenshot, a reproducible synthetic example and
 
 | Workstream | Current boundary |
 |---|---|
-| Browser tools | Eleven tools available on the site; independent WordPress modules plus Core. Public source/download release is being prepared. |
+| Browser tools | Eleven tools available on the site; independent WordPress modules plus Core. Source/download packages are not distributed in this repository. |
 | Silent Cutter | [1.5.1 stable released](https://github.com/agmadxnet/agmad-silent-cutter/releases/tag/v1.5.1); local video workflow for Mac and Windows. Owner-reported platform tests; no universal compatibility claim. |
-| AGMAD MENA | In development; public scanning availability is not claimed. |
 | Retro games on Mac | Documented experiments with explicit testing limits. Original game data is not distributed. |
-| Subscriber tools | Future direction; no paid access or private-tool release promised. |
 
 [Tools catalog](docs/tools/CATALOG.md) · [Documentation workflow](docs/editorial/WORKFLOW.md) · [Roadmap](ROADMAP.md) · [Contributing](CONTRIBUTING.md)
 

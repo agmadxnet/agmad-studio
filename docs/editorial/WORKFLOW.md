@@ -9,6 +9,4 @@
 7. Derive the video outline from the reviewed article: problem, short demonstration, result, caveat, link to the canonical article/tool.
 8. Include useful published work in an occasional newsletter, with confirmed consent and unsubscribe; no automatic daily send.
 
-Initial article queue: product-image resize/compression; JPEG vs PNG decisions; JSON formatting and preserved numbers; Unicode word-count meaning; Base64 is encoding rather than encryption; timestamp units and timezone offsets. Treat these as drafts until examples are tested.
-
-Categories: Tools, Development, Experiences (proposed). Tags are reused only where relevant: Images, Video, Text, Developer Tools, Mac, Windows, Games, Ecommerce. Do not create empty tag archives or invent daily activity.
+Editorial queues, commercial plans and internal delivery schedules are maintained privately. Public notes should describe verified work and its limitations.
